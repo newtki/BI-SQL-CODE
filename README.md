@@ -1,4 +1,4 @@
-#Database Analysis
+# Database Analysis
 
 #### Situation: I have been hired as ecommerce database analyst for an online retailer who has just launced their first product.
 
